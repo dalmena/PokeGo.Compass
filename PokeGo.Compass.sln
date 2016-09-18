@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeGo.Compass.Api.DB", "Po
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeGo.Compass.Console", "PokeGo.Compass.Console\PokeGo.Compass.Console.csproj", "{CC3E2C17-B6F9-429B-8823-439DF967755A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokeGo.Compass.Web", "PokeGo.Compass.Web\PokeGo.Compass.Web.csproj", "{96FC24CF-57D3-4602-936C-C52595C5CC09}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,14 @@ Global
 		{CC3E2C17-B6F9-429B-8823-439DF967755A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{CC3E2C17-B6F9-429B-8823-439DF967755A}.Release|x86.ActiveCfg = Release|Any CPU
 		{CC3E2C17-B6F9-429B-8823-439DF967755A}.Release|x86.Build.0 = Release|Any CPU
+		{96FC24CF-57D3-4602-936C-C52595C5CC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FC24CF-57D3-4602-936C-C52595C5CC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FC24CF-57D3-4602-936C-C52595C5CC09}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{96FC24CF-57D3-4602-936C-C52595C5CC09}.Debug|x86.Build.0 = Debug|Any CPU
+		{96FC24CF-57D3-4602-936C-C52595C5CC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FC24CF-57D3-4602-936C-C52595C5CC09}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FC24CF-57D3-4602-936C-C52595C5CC09}.Release|x86.ActiveCfg = Release|Any CPU
+		{96FC24CF-57D3-4602-936C-C52595C5CC09}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
